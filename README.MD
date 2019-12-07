@@ -7,6 +7,6 @@ O algoritimo dividirá um segmento de reta em 3 partes, sendo a parte do meio em
 
 
 Para adquirir essa "Topologia", é necessário começar com 3 segmentos, formando um triangulo.
-![Floco](https://imgflip.com/gif/3ipue6 "Criando o floco")<br>
+![Floco](https://i.imgflip.com/3ipue6.gif "Criando o floco")<br>
 
 
