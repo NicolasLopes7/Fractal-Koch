@@ -1,4 +1,4 @@
-#Fractal de Koch
+# Fractal de Koch
 
 Uma demonstração do fractal de koch, feita com o Processing na linguagem Java.
 
@@ -6,6 +6,7 @@ Uma demonstração do fractal de koch, feita com o Processing na linguagem Java.
 O algoritimo dividirá um segmento de reta em 3 partes, sendo a parte do meio em mais duas. Após isso, inclinará essas partes do meio em -(PI/3) (-60 graus), assim formando um triângulo equilatero, e depois do terceiro estágio da função que cresce em (4/3)^x, ficará parecida com um floco de neve.
 
 
-Para adquirir essa "Topologia", é necessário a "pattern" começar com um triângulo
+Para adquirir essa "Topologia", é necessário começar com 3 segmentos, formando um triangulo.
+![Floco](https://imgflip.com/gif/3ipue6 "Criando o floco")<br>
 
 
